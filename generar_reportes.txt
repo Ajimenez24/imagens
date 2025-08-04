@@ -1,7 +1,7 @@
 -Maravillas
 -Mayoreo II
 -Lido
--El Sol
+El Sol
 -Aureliano
 -Estado
 -Carmelo
@@ -11,5 +11,6 @@
 -Basílica
 -Los Reyes
 01/07/2025-00/00/00
+
 
 
